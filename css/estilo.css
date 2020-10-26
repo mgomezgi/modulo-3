@@ -16,7 +16,7 @@ body {
 }
 
 .navbar-brand {
-  padding-top: 25px;
+  padding-top: 15px;
 }
 
 .navbar-brand h1 { /* Restaurant name */
@@ -27,7 +27,7 @@ body {
   text-align: left;
   margin-top: 0;
   margin-bottom: 0;
-  margin-left: 25px;
+  margin-left: 15px;
   line-height: .75;
 }
 .navbar-brand a:hover, .navbar-brand a:focus {
