@@ -19,7 +19,7 @@ body {
   padding-top: 15px;
 }
 
-.navbar-brand h1 { /* Restaurant name */
+.navbar-brand h2 { /* Restaurant name */
   color: black;
   font-size: 1.5em;
   text-transform: uppercase;
@@ -27,7 +27,7 @@ body {
   text-align: left;
   margin-top: 0;
   margin-bottom: 0;
-  margin-left: 15px;
+  margin-left: 5px;
   line-height: .75;
 }
 .navbar-brand a:hover, .navbar-brand a:focus {
@@ -52,7 +52,8 @@ body {
 }
 .navbar-header button.navbar-toggle {
   clear: both;
-  margin-top: -30px;
+  margin-top: 15px;
+  text-align: right;
 }
 /* END HEADER */
 /****************************** cabecera fin**********/
